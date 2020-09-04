@@ -3,7 +3,7 @@ This repository contains supplementary code used to generate figure 2 from
 
 > Optical tweezers exploring neuroscience,
 > Isaac C. D. Lenton, Ethan K. Scott, Halina Rubinsztein-Dunlop, and Itia A. Favre-Bulle,
-> Frontiers in Physics, 2020.
+> [Journal TBC], 2020.
 
 If you find any of this code useful, please consider citing our paper.
 
